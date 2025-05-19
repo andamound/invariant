@@ -1,0 +1,9 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/golangci-lint.json": [
+            ".golangci.yml",
+            "/.golangci.yml",
+            "*/.golangci.yml"
+        ]
+    }
+}
